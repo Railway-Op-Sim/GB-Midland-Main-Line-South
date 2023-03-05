@@ -1,0 +1,13 @@
+author = 'Oxalin'
+country_code = 'GB'
+description = "The Midland Main Line from London St Pancras to Bedford"
+display_name = 'Midland Main Line (South)'
+doc_files = [ 'Midland Main Line (South).md' ]
+factual = true
+img_files = [ 'Midland Main Line (South).bmp' ]
+name = 'Midland Main Line (South)'
+release_date = '2023-02-05'
+rly_file = 'Midland Main Line (South).rly'
+ssn_files = [ 'Midland Main Line (South) Initial Session.ssn']
+ttb_files = [ 'Midland Main Line (South) 25-01-23.ttb' ]
+version = '1.0.0'
