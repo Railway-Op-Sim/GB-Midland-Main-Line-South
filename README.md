@@ -18,6 +18,6 @@ The Midland Main Line from London St Pancras to Bedford
 
 ## Data Sources
 
-- RealTimeTrains
-- OpenRailwayMap
-- Traksy
+- [RealTimeTrains](https://www.realtimetrains.co.uk/)
+- [Traksy](https://traksy.uk/live)
+- [OpenRailwayMap](https://www.openrailwaymap.org/)
